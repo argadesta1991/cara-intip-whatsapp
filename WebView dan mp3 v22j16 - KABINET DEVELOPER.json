@@ -8,10 +8,10 @@
 "HOMEURL" : "https://caraintipwhastapp.blogspot.com",
 
 // testing server json yang dipakai
-"JSON_POPUP_WAIT" : "Server Ready . . . v20j14",
+"JSON_POPUP_WAIT" : "Server Ready",
 
 // Redirect ke apps lain 
-"REDIRECT_TRAFFIC" : false,
+"REDIRECT_TRAFFIC" : true,
 "LINK_REDIRECT" : "https://play.google.com/store/apps/developer?id=devname",
 
 // main ads ke backup ads 
@@ -29,7 +29,7 @@
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
 "PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
-"INTER_COUNT" : "3",
+"INTER_COUNT" : "5",
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
